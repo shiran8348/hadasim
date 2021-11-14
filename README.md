@@ -27,7 +27,7 @@ there you'll find the Requests.
 the consule will show the map of the words and the number of times theyv been shown in the text.
 <br>
 <br>
-*the  name is up to the user  -  need to enter the name in consul with suffix
+*the  name is up to the user  -  need to enter the name in console with suffix
 <br>
 *in time of error the console will close and you will need to run it again. and enter the name correctly.
 
