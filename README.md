@@ -15,7 +15,7 @@ script to get information from file.txt* .
 <br>
 -extract the mose popular word in the paragrph.
 <br>
--extract the most popular word without exclusiv words (eg.  am, that,the, a ecs.)
+-extract the most popular word without exclusiv words (eg.  am, that,the, a etc.)
 <br>
 --with option to insert more words in array & change the number of size.
 <br>
